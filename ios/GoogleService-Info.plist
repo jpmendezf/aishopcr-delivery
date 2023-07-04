@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1000163153346-dut1f04ahq32eeovgrnoep81pe91af3q.apps.googleusercontent.com</string>
+	<string>547518803970-ov8qn16tp3b6gmfncabdrnutpk7dd6o2.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1000163153346-dut1f04ahq32eeovgrnoep81pe91af3q</string>
+	<string>com.googleusercontent.apps.547518803970-ov8qn16tp3b6gmfncabdrnutpk7dd6o2</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDjxRDIuTc6ErANoftU-FtgLBSUxMlLCeA</string>
+	<string>AIzaSyCzp7HwzoZvPn1gj7fo4EERC1DNagbc0ro</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1000163153346</string>
+	<string>547518803970</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.sixamtech.6amMartDelivery</string>
+	<string>com.aishopcr.appdelivery</string>
 	<key>PROJECT_ID</key>
-	<string>ammart-8885e</string>
+	<string>aishop-391614</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ammart-8885e.appspot.com</string>
+	<string>aishop-391614.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1000163153346:ios:505069d74110b22a06b25b</string>
+	<string>1:547518803970:ios:1339203491d62a4958f71b</string>
+	<key>DATABASE_URL</key>
+	<string>https://aishop-391614-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
