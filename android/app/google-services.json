@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "547518803970",
+    "firebase_url": "https://aishop-391614-default-rtdb.firebaseio.com",
+    "project_id": "aishop-391614",
+    "storage_bucket": "aishop-391614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547518803970:android:e40d9e14f3585a2158f71b",
+        "android_client_info": {
+          "package_name": "com.aishopcr.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547518803970-6o4957qgkf6kvjnoodr4482nkqbcm91m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFvH1MhBNGgAujhImaA20MRhpqwPBkuFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547518803970-6o4957qgkf6kvjnoodr4482nkqbcm91m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547518803970-s0ogn1p0ho00so2qou29074b6nse3v45.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aishopcr.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547518803970:android:e3521aacb76cc21958f71b",
+        "android_client_info": {
+          "package_name": "com.aishopcr.appdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547518803970-6o4957qgkf6kvjnoodr4482nkqbcm91m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFvH1MhBNGgAujhImaA20MRhpqwPBkuFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547518803970-6o4957qgkf6kvjnoodr4482nkqbcm91m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547518803970-s0ogn1p0ho00so2qou29074b6nse3v45.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aishopcr.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
