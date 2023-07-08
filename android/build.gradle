@@ -56,4 +56,4 @@ signingConfigs {
             signingConfig signingConfigs.release
         }
     }
-  }
+  
